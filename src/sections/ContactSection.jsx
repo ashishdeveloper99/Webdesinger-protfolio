@@ -8,7 +8,7 @@ const ContactSection = () => {
         <span className="bg-back-subtle p-1 rounded-full">
           <LetterIcon />
         </span>{' '}
-        Get in touch
+        Get in touch / Mail me
       </h3>
       <p className="text-fore-subtle my-3 text-center">
         While I&apos;m always looking for new opportunities, I&apos;m currently
